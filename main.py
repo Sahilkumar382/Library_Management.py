@@ -6,7 +6,7 @@ from return_books import return_book
 def library():
     while True:
         print("\n" + "="*40)
-        print(" LIBRARY MANAGEMENT SYSTEM.")
+        print(" LIBRARY MANAGEMENT SYSTEM")
         print("="*40)
         print("1. Add Book")
         print("2. Show Books")
